@@ -8,7 +8,7 @@ var dictionary = {
             'es': "El gobierno de Venezuela, <a href='https://es.wikipedia.org/wiki/Grupo_de_Lima'>catalogado por la mayoría del continente como no democrático</a>, convocó a elecciones para intentar recuperar su legitimidad internacional.",
         },
         'intro-text-2': {
-            'en': "At Democracy Earth Foundation, we know that <strong>conditions</strong> are paramount in any election. Here's why the Venezuelan election isn't free or fair.",
+            'en': "At Democracy Earth Foundation, we know that <strong class='white'>conditions</strong> are paramount in any election. Here's why the Venezuelan election isn't free or fair.",
             'es': "En la Fundación Democracy Earth sabemos que las <strong>condiciones</strong> son fundamentales para cualquier elección. Aquí te explicamos por la que la elección venezolana no es justa.",
         },
         'btn-what': {

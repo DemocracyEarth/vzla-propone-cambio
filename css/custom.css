@@ -6,3 +6,7 @@ body {
 h1,h3 {
     font-family: 'Source Serif Pro', serif;
 }
+
+strong.white {
+    color: #fff;
+}
