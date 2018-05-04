@@ -3,17 +3,13 @@ var dictionary = {
             'en': "Venezuela is holding sham elections on May 20.",
             'es': "Venezuela tendrá elecciones falsas este 20 de mayo.",
         },
-        'intro-text-1': {
-            'en': "Venezuela's government, <a href='https://en.wikipedia.org/wiki/Lima_Group'>classified by most countries in the region as non-democratic</a>, called on elections to try to recover its international legitimacy.",
-            'es': "El gobierno de Venezuela, <a href='https://es.wikipedia.org/wiki/Grupo_de_Lima'>catalogado por la mayoría del continente como no democrático</a>, convocó a elecciones para intentar recuperar su legitimidad internacional.",
-        },
-        'intro-text-2': {
-            'en': "At Democracy Earth Foundation, we know that <strong class='white'>conditions</strong> are paramount in any election. Here's why the Venezuelan election isn't free or fair.",
-            'es': "En la Fundación Democracy Earth sabemos que las <strong>condiciones</strong> son fundamentales para cualquier elección. Aquí te explicamos por la que la elección venezolana no es justa.",
+        'intro-text': {
+            'en': "It’s time to create a new space to propose change.",
+            'es': "Es hora de crear un nuevo espacio para proponer cambio.",
         },
         'btn-what': {
-            'en': "What can we do?",
-            'es': "¿Qué podemos hacer?",
+            'en': "Propose change",
+            'es': "Propón cambio",
         },
 
         'manipulated-tallies-title': {
@@ -34,47 +30,18 @@ var dictionary = {
                   <li><a target='_blank' href='https://www.caracaschronicles.com/2017/10/19/psuv-steals-gubernatorial-election-bolivar-state/'>Proof of fraud in the 2017 Bolívar state elections</a></li>`,
         },
 
-        'maimed-opposition-title': {
-            'en': "The opposition is unable to participate",
+        'democracy-title': {
+            'en': "As official institutions take a dictatorial turn, Venezuelans continue to bet on democracy",
         },
-        'maimed-opposition-text': {
-            'en': "The most capable leaders are in jail, in exile, or under threat. More than 40 political parties have been made illegal.",
-        },
-        'maimed-opposition-sources': {
-            'en': `PLEASE HELP GATHER SOURCES HERE`,
+        'democracy-text': {
+            'en': "We are building social consensus tools that are more transparent, efficient and impossible to corrupt.<br/>It's time to start proposing change and working for it.",
         },
 
-        'gerrymandered-registry-title': {
-            'en': "The voter registry is heavily gerrymandered",
+        'sovereign-title': {
+            'en': "Join the discussions at Sovereign",
         },
-        'gerrymandered-registry-text': {
-            'en': "Many people's voting centers were changed without proper notice. Many people, including those abroad, haven't been able to register to vote.",
-        },
-        'gerrymandered-registry-sources': {
-            'en': `PLEASE HELP GATHER SOURCES HERE`,
-        },
-
-        'coerced-voters-title': {
-            'en': "Citizens are being blackmailed with food if they don't vote for the government party",
-        },
-        'coerced-voters-text': {
-            'en': "Describe the puntos rojos and other such strategies.",
-        },
-        'coerced-voters-sources': {
-            'en': `PLEASE HELP GATHER SOURCES HERE`,
-        },
-
-        'outro-title': {
-            'en': "What can we do?",
-        },
-        'outro-cta-1': {
-            'en': "Share this page with friends and family to show them why the election will be fraudulent.",
-        },
-        'outro-cta-2': {
-            'en': "If you're Venezuelan, we invite you to participate in an alternative, open-source election at <a href='https://venezuela.democracy.earth'>venezuela.democracy.earth</a>. Registration opens soon!",
-        },
-        'outro-cta-3': {
-            'en': "We're working on a tool to empower anyone to report fraud during election day. Stay tuned.",
+        'sovereign-text': {
+            'en': "Register at <a href='https://venezuela.democracy.earth'>venezuela.democracy.earth</a> and participate in discussions you care about as a Venezuelan.",
         },
 };
 
