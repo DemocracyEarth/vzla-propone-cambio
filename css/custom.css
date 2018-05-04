@@ -4,9 +4,35 @@ body {
 }
 
 h1,h2,h3 {
-    font-family: 'Source Serif Pro', serif;
+    font-family: 'Source Sans Pro', serif;
 }
 
 strong.white {
     color: #fff;
+}
+
+section.intro {
+    height: 600px;
+}
+
+.background-image-holder.intro {
+    width: 157%;
+    background-position: bottom -280px right 143px !important;
+    opacity: 0.8 !important;
+}
+
+.intro-box {
+    padding-top: 155px;
+    width: 537px;
+}
+
+.image-box {
+    margin: auto;
+}
+
+.btn.btn--primary.type--uppercase.custom {
+    background: #00C091;
+    border-color: #00C091;
+    padding-right: 20px;
+    padding-left: 20px;
 }
