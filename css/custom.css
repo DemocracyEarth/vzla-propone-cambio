@@ -15,6 +15,11 @@ section.intro {
     height: 600px;
 }
 
+section.outro {
+    height: 150px;
+}
+
+
 .background-image-holder.intro {
     width: 157%;
     background-position: bottom -280px right 143px !important;
@@ -35,4 +40,25 @@ section.intro {
     border-color: #00C091;
     padding-right: 20px;
     padding-left: 20px;
+}
+
+.logo-img {
+    width: 70px;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+.lead.outro {
+    font-size: 15px;
+    font-style: italic;
+    text-align: center;
+}
+
+@media (max-width: 420px) {
+    .background-image-holder.intro {
+        width: 100%;
+        background-repeat: no-repeat !important;
+        background-position: bottom 20px right -270px !important;
+        opacity: 0.8 !important;
+    }
 }

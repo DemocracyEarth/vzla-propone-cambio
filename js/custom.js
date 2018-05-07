@@ -13,12 +13,12 @@ var dictionary = {
         },
 
         'manipulated-tallies-title': {
-            'en': "Tallies from the most recent elections have been verifiably manipulated.",
-            'es': "Los resultados de las elecciones más recientes fueron manipulados.",
+            'en': "Tallies from the most recent elections have been verifiably manipulated",
+            'es': "El pais está en colapso",
         },
         'manipulated-tallies-text': {
             'en': "Smartmatic, the company that built the technology behind every Venezuelan election from 2004 to 2017, declared that the results of the 2017 Constituent Assembly election were manipulated “without any doubt”.<br/><br/>The government recently switched to a new system run by an unknown company, and conclusive proof of fraud was found.",
-            'es': "Smartmatic declaró que los resultados de la elección a la Asamblea Nacional Constituyente fueron trastocados “sin duda alguna”. <br/><br/>Venezuela ha colapsado y participar en las elecciones bajo el marco del regime solo le da legimtimidad a Maduro.",
+            'es': "Venezuela ha colapsado y participar en las elecciones bajo el marco del régimen solo le da legitimidad a Maduro.<br/><br/>Smartmatic inclusive declaró que los resultados de la elección de la ilegítima Asamblea Nacional Constituyente fueron trastocados “sin duda alguna”.",
         },
         'manipulated-tallies-sources': {
             'en': `<li><a target='_blank' href='http://www.smartmatic.com/news/article/smartmatic-statement-on-the-recent-constituent-assembly-election-in-venezuela/'>Smartmatic's full statement</a></li>
@@ -51,6 +51,10 @@ var dictionary = {
         'how-to-sources': {
             'en': `<li><a target='_blank' href='#'>How do I participate?</a></li>`,
             'es': `<li><a target='_blank' href='#'>¿Como participo?</a></li>`,
+        },
+        'outro-text': {
+            'en': "Initiative driven by the Democracy Earth Foundation and the Human Rights Foundation",
+            'es': "Iniciativa impulsada por Democracy Earth Foundation y Human Rights Foundation",
         },
 };
 
