@@ -45,16 +45,16 @@ var dictionary = {
             'es': "Es hora de empezar a proponer cambio y a trabajar por ello",
         },
         'sovereign-text': {
-            'en': "Register at <a href='https://venezuela.democracy.earth'>venezuela.democracy.earth</a> and participate in discussions you care about as a Venezuelan.",
-            'es': "Haz oir tu voz: crea tu cuenta en <a href='https://venezuela.democracy.earth'>venezuela.democracy.earth</a> y participa en la propuesta de ideas por un cambio para Venezuela",
+            'en': "Register at <a class='styless-anchor' href='https://venezuela.democracy.earth'>venezuela.democracy.earth</a> and participate in discussions you care about as a Venezuelan.",
+            'es': "Haz oir tu voz: crea tu cuenta en <a class='styless-anchor' href='https://venezuela.democracy.earth'>venezuela.democracy.earth</a> y participa en la propuesta de ideas por un cambio para Venezuela",
         },
         'how-to-sources': {
             'en': `<li><a target='_blank' href='#'>How do I participate?</a></li>`,
             'es': `<li><a target='_blank' href='#'>¿Como participo?</a></li>`,
         },
         'outro-text': {
-            'en': "Initiative driven by the Democracy Earth Foundation and the Human Rights Foundation",
-            'es': "Iniciativa impulsada por Democracy Earth Foundation y Human Rights Foundation",
+            'en': "Initiative driven by the Democracy Earth Foundation and the Human Rights Foundation in collaboration with Venezuelans both in the country and the diaspora",
+            'es': "Iniciativa impulsada por Democracy Earth Foundation y Human Rights Foundation en conjunto con venezolanos dentro y fuera del país",
         },
 };
 

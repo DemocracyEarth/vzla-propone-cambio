@@ -16,9 +16,23 @@ section.intro {
 }
 
 section.outro {
-    height: 150px;
+    height: 205px;
+    background-color: #F5F5F5;
+    padding-top: 25px !important;
 }
 
+hr.short {
+    width: 2.78571429em;
+    border-color: #ECECEC;
+}
+
+ul:not([class*='menu']) li > a {
+    font-weight: bold;
+}
+
+.styless-anchor {
+    text-decoration: none;
+}
 
 .background-image-holder.intro {
     width: 157%;
@@ -43,18 +57,27 @@ section.outro {
 }
 
 .logo-img {
-    width: 70px;
-    border-radius: 50%;
+    width: 230px;
+    border-radius: 5%;
     margin: 10px;
 }
 
 .lead.outro {
-    font-size: 15px;
+    font-size: 16px;
     font-style: italic;
     text-align: center;
+    font-weight: bold;
+}
+
+.sources-box {
+    font-weight: bold !important;
 }
 
 @media (max-width: 420px) {
+    section.outro {
+        height: 400px;
+    }
+
     .background-image-holder.intro {
         width: 100%;
         background-repeat: no-repeat !important;
