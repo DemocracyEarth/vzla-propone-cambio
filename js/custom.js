@@ -36,8 +36,8 @@ var dictionary = {
             'es': "Estamos construyendo herramientas de consenso social mas transparentes, eficicientes e imposibles de corrumpir.<br/><br/>Estamos creando alternativas de gobernanza democrática para Venezuela más allá de la coyuntura política-electoral. ",
         },
         'learn-more-sources': {
-            'en': `<li><a target='_blank' href='#'>Learn more about this initiative</a></li>`,
-            'es': `<li><a target='_blank' href='#'>Aprende mas sobre esta iniciativa</a></li>`,
+            'en': `<li><a target='_blank' href='https://medium.com/@DemocracyEarth/fb7b89924d47'>Learn more about this initiative</a></li>`,
+            'es': `<li><a target='_blank' href='https://medium.com/@DemocracyEarth/96081eb95bd7'>Aprende mas sobre esta iniciativa</a></li>`,
         },
 
         'sovereign-title': {
