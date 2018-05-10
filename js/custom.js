@@ -33,11 +33,11 @@ var dictionary = {
         },
         'democracy-text': {
             'en': "We are building social consensus tools that are more transparent, efficient and impossible to corrupt.<br/><br/>We are building be new realms for the democratic manifestation of ideas.",
-            'es': "Estamos construyendo herramientas de consenso social mas transparentes, eficicientes e imposibles de corrumpir.<br/><br/>Estamos creando alternativas de gobernanza democrática para Venezuela más allá de la coyuntura política-electoral. ",
+            'es': "Estamos construyendo herramientas de consenso social más transparentes, eficicientes e imposibles de corrumpir.<br/><br/>Estamos creando alternativas de gobernanza democrática para Venezuela más allá de la coyuntura política-electoral. ",
         },
         'learn-more-sources': {
             'en': `<li><a target='_blank' href='https://medium.com/@DemocracyEarth/fb7b89924d47'>Learn more about this initiative</a></li>`,
-            'es': `<li><a target='_blank' href='https://medium.com/@DemocracyEarth/96081eb95bd7'>Aprende mas sobre esta iniciativa</a></li>`,
+            'es': `<li><a target='_blank' href='https://medium.com/@DemocracyEarth/96081eb95bd7'>Aprende más sobre esta iniciativa</a></li>`,
         },
 
         'sovereign-title': {
