@@ -75,7 +75,7 @@ ul:not([class*='menu']) li > a {
 
 @media (max-width: 420px) {
     section.outro {
-        height: 400px;
+        height: 250px;
     }
 
     .background-image-holder.intro {
