@@ -53,8 +53,8 @@ var dictionary = {
             'es': `<li><a target='_blank' href='#'>¿Como participo?</a></li>`,
         },
         'outro-text': {
-            'en': "Initiative driven by the Democracy Earth Foundation and the Human Rights Foundation in collaboration with Venezuelans both in the country and the diaspora",
-            'es': "Iniciativa impulsada por Democracy Earth Foundation y Human Rights Foundation en conjunto con venezolanos dentro y fuera del país",
+            'en': "Initiative driven by the Democracy Earth Foundation in collaboration with Venezuelans both in the country and the diaspora",
+            'es': "Iniciativa impulsada por Democracy Earth Foundation en conjunto con venezolanos dentro y fuera del país",
         },
 };
 
