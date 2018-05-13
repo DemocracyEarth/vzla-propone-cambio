@@ -45,8 +45,8 @@ var dictionary = {
             'es': "Es hora de proponer cambio y trabajar por ello",
         },
         'sovereign-text': {
-            'en': "Raise your voice: register at <a class='styless-anchor' href='https://venezuela.democracy.earth'>venezuela.democracy.earth</a> and participate in the proposition of ideas for a change in Venezuela.",
-            'es': "Haz oir tu voz: crea tu cuenta en <a class='styless-anchor' href='https://venezuela.democracy.earth'>venezuela.democracy.earth</a> y participa en la propuesta de ideas por un cambio para Venezuela.",
+            'en': "Raise your voice: register at <a class='styless-anchor' href='https://vote.democracy.earth/geo/venezuela'>venezuela.democracy.earth</a> and participate in the proposition of ideas for a change in Venezuela.",
+            'es': "Haz oir tu voz: crea tu cuenta en <a class='styless-anchor' href='https://vote.democracy.earth/geo/venezuela'>venezuela.democracy.earth</a> y participa en la propuesta de ideas por un cambio para Venezuela.",
         },
         'how-to-sources': {
             'en': `<li><a target='_blank' href='#'>How do I participate?</a></li>`,
